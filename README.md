@@ -20,5 +20,3 @@ End-to-end Data Science project that predicts whether a customer is likely to ch
 - Matplotlib
 - Seaborn
 - Streamlit
-
-## Project Structure
